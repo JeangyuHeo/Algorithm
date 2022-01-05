@@ -5,47 +5,44 @@ import os
 import random
 import re
 import sys
+
 #
-# Complete the 'gridChallenge' function below.
+# Complete the 'superDigit' function below.
 #
-# The function is expected to return a STRING.
-# The function accepts STRING_ARRAY grid as parameter.
+# The function is expected to return an INTEGER.
+# The function accepts following parameters:
+#  1. STRING n
+#  2. INTEGER k
 #
 
-def gridChallenge(grid):
+def superDigit(n, k):
     # Write your code here
-    for idx, s in enumerate(grid):
-        s = sorted(s)
-        grid[idx] = s
-        for idx in range(len(s)-1):
-            if s[idx] > s[idx+1]:
-                return 'NO'
-    
-    length = len(grid[0])
-    
-    for i in range(length):
-        for j in range(length-1):
-            if grid[j][i] > grid[j+1][i]:
-                return 'NO'
+    sum=0
+    for ch in n:
+        sum += int(ch)
         
-    return 'YES'
+    n = str(sum * k)
     
+    while len(n) != 1:
+        sum=0
+        for ch in n:
+            sum += int(ch)
+        
+        n = str(sum)
+    
+    return int(n)
+
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
 
-    t = int(input().strip())
+    first_multiple_input = input().rstrip().split()
 
-    for t_itr in range(t):
-        n = int(input().strip())
+    n = first_multiple_input[0]
 
-        grid = []
+    k = int(first_multiple_input[1])
 
-        for _ in range(n):
-            grid_item = input()
-            grid.append(grid_item)
+    result = superDigit(n, k)
 
-        result = gridChallenge(grid)
-
-        fptr.write(result + '\n')
+    fptr.write(str(result) + '\n')
 
     fptr.close()
