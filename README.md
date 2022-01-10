@@ -90,9 +90,25 @@
 
 ## 스택
 
-| 날짜       | 사이트       | 문제이름                                                     | 언어 |
+| 날짜       | 사이트       | 문제 이름                                                    | 언어 |
 | ---------- | ------------ | ------------------------------------------------------------ | ---- |
 | 2021-12-29 | 프로그래머스 | [주식 가격](https://github.com/JeangyuHeo/Algorithm/blob/main/%EC%8A%A4%ED%83%9D/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9.cpp) | C++  |
+
+<br>
+
+<br>
+
+## SQL
+
+| 날짜       | 사이트       | 문제 이름                                                    | 언어 |
+| ---------- | ------------ | ------------------------------------------------------------ | ---- |
+| 2022-01-11 | 프로그래머스 | [모든 레코드 조회하기](https://github.com/JeangyuHeo/Algorithm/blob/main/SQL/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EB%AA%A8%EB%93%A0_%EB%A0%88%EC%BD%94%EB%93%9C_%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0.md) | SQL  |
+| 2022-01-11 | 프로그래머스 | [역순 정렬하기](https://github.com/JeangyuHeo/Algorithm/commit/b17bebdb458e228e38d86e075fbf4eaf36f536c9) | SQL  |
+| 2022-01-11 | 프로그래머스 | [아픈 동물 찾기](https://github.com/JeangyuHeo/Algorithm/blob/main/SQL/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EC%95%84%ED%94%88%EB%8F%99%EB%AC%BC%EC%B0%BE%EA%B8%B0.md) | SQL  |
+| 2022-01-11 | 프로그래머스 | [어린 동물 찾기](https://github.com/JeangyuHeo/Algorithm/blob/main/SQL/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EC%96%B4%EB%A6%B0%EB%8F%99%EB%AC%BC%EC%B0%BE%EA%B8%B0.md) | SQL  |
+| 2022-01-11 | 프로그래머스 | [동물의 아이디와 이름](https://github.com/JeangyuHeo/Algorithm/blob/main/SQL/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EB%8F%99%EB%AC%BC%EC%9D%98%EC%95%84%EC%9D%B4%EB%94%94%EC%99%80%EC%9D%B4%EB%A6%84.md) | SQL  |
+| 2022-01-11 | 프로그래머스 | [여러 기준으로 정렬하기](https://github.com/JeangyuHeo/Algorithm/blob/main/SQL/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EC%97%AC%EB%9F%AC%EA%B8%B0%EC%A4%80%EC%9C%BC%EB%A1%9C%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.md) | SQL  |
+| 2022-01-11 | 프로그래머스 | [상위 n개 레코드](https://github.com/JeangyuHeo/Algorithm/blob/main/SQL/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EC%83%81%EC%9C%84N%EA%B0%9C%EB%A0%88%EC%BD%94%EB%93%9C.md) | SQL  |
 
 <br>
 
