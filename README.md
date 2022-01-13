@@ -80,9 +80,15 @@
 
 ## 탐욕법
 
-| 날짜       | 사이트       | 문제 이름                                                    | 언어 |
-| ---------- | ------------ | ------------------------------------------------------------ | ---- |
-| 2021-12-29 | 프로그래머스 | [조이스틱](https://github.com/JeangyuHeo/Algorithm/blob/main/%ED%83%90%EC%9A%95%EB%B2%95/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EC%A1%B0%EC%9D%B4%EC%8A%A4%ED%8B%B1.cpp) | C++  |
+| 날짜       | 사이트       | 문제 이름                                                    | 언어   |
+| ---------- | ------------ | ------------------------------------------------------------ | ------ |
+| 2021-12-29 | 프로그래머스 | [조이스틱](https://github.com/JeangyuHeo/Algorithm/blob/main/%ED%83%90%EC%9A%95%EB%B2%95/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EC%A1%B0%EC%9D%B4%EC%8A%A4%ED%8B%B1.cpp) | C++    |
+| 2022-01-11 | 프로그래머스 | [체육복](https://github.com/JeangyuHeo/Algorithm/blob/main/%ED%83%90%EC%9A%95%EB%B2%95/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EC%B2%B4%EC%9C%A1%EB%B3%B5.py) | Python |
+| 2022-01-11 | 프로그래머스 | [조이스틱](https://github.com/JeangyuHeo/Algorithm/blob/main/%ED%83%90%EC%9A%95%EB%B2%95/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EC%A1%B0%EC%9D%B4%EC%8A%A4%ED%8B%B1_python.py) | Python |
+| 2022-01-11 | 프로그래머스 | [큰 수 만들기](https://github.com/JeangyuHeo/Algorithm/blob/main/%ED%83%90%EC%9A%95%EB%B2%95/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%ED%81%B0%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0.py) | Python |
+| 2022-01-11 | 프로그래머스 | [구명보트](https://github.com/JeangyuHeo/Algorithm/blob/main/%ED%83%90%EC%9A%95%EB%B2%95/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8.py) | Python |
+| 2022-01-11 | 프로그래머스 | [단속카메라](https://github.com/JeangyuHeo/Algorithm/blob/main/%ED%83%90%EC%9A%95%EB%B2%95/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC.py) | Python |
+| 2022-01-12 | 프로그래머스 | [섬 연결하기](https://github.com/JeangyuHeo/Algorithm/blob/main/%ED%83%90%EC%9A%95%EB%B2%95/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EC%84%AC%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0.py) | Python |
 
 <br>
 
@@ -100,15 +106,31 @@
 
 ## SQL
 
-| 날짜       | 사이트       | 문제 이름                                                    | 언어 |
-| ---------- | ------------ | ------------------------------------------------------------ | ---- |
-| 2022-01-11 | 프로그래머스 | [모든 레코드 조회하기](https://github.com/JeangyuHeo/Algorithm/blob/main/SQL/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EB%AA%A8%EB%93%A0_%EB%A0%88%EC%BD%94%EB%93%9C_%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0.md) | SQL  |
-| 2022-01-11 | 프로그래머스 | [역순 정렬하기](https://github.com/JeangyuHeo/Algorithm/commit/b17bebdb458e228e38d86e075fbf4eaf36f536c9) | SQL  |
-| 2022-01-11 | 프로그래머스 | [아픈 동물 찾기](https://github.com/JeangyuHeo/Algorithm/blob/main/SQL/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EC%95%84%ED%94%88%EB%8F%99%EB%AC%BC%EC%B0%BE%EA%B8%B0.md) | SQL  |
-| 2022-01-11 | 프로그래머스 | [어린 동물 찾기](https://github.com/JeangyuHeo/Algorithm/blob/main/SQL/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EC%96%B4%EB%A6%B0%EB%8F%99%EB%AC%BC%EC%B0%BE%EA%B8%B0.md) | SQL  |
-| 2022-01-11 | 프로그래머스 | [동물의 아이디와 이름](https://github.com/JeangyuHeo/Algorithm/blob/main/SQL/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EB%8F%99%EB%AC%BC%EC%9D%98%EC%95%84%EC%9D%B4%EB%94%94%EC%99%80%EC%9D%B4%EB%A6%84.md) | SQL  |
-| 2022-01-11 | 프로그래머스 | [여러 기준으로 정렬하기](https://github.com/JeangyuHeo/Algorithm/blob/main/SQL/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EC%97%AC%EB%9F%AC%EA%B8%B0%EC%A4%80%EC%9C%BC%EB%A1%9C%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.md) | SQL  |
-| 2022-01-11 | 프로그래머스 | [상위 n개 레코드](https://github.com/JeangyuHeo/Algorithm/blob/main/SQL/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EC%83%81%EC%9C%84N%EA%B0%9C%EB%A0%88%EC%BD%94%EB%93%9C.md) | SQL  |
+| 날짜       | 사이트       | 문제 이름                                                    | 언어  |
+| ---------- | ------------ | ------------------------------------------------------------ | ----- |
+| 2022-01-11 | 프로그래머스 | [모든 레코드 조회하기](https://github.com/JeangyuHeo/Algorithm/blob/main/SQL/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EB%AA%A8%EB%93%A0_%EB%A0%88%EC%BD%94%EB%93%9C_%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0.md) | MySQL |
+| 2022-01-11 | 프로그래머스 | [역순 정렬하기](https://github.com/JeangyuHeo/Algorithm/commit/b17bebdb458e228e38d86e075fbf4eaf36f536c9) | MySQL |
+| 2022-01-11 | 프로그래머스 | [아픈 동물 찾기](https://github.com/JeangyuHeo/Algorithm/blob/main/SQL/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EC%95%84%ED%94%88%EB%8F%99%EB%AC%BC%EC%B0%BE%EA%B8%B0.md) | MySQL |
+| 2022-01-11 | 프로그래머스 | [어린 동물 찾기](https://github.com/JeangyuHeo/Algorithm/blob/main/SQL/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EC%96%B4%EB%A6%B0%EB%8F%99%EB%AC%BC%EC%B0%BE%EA%B8%B0.md) | MySQL |
+| 2022-01-11 | 프로그래머스 | [동물의 아이디와 이름](https://github.com/JeangyuHeo/Algorithm/blob/main/SQL/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EB%8F%99%EB%AC%BC%EC%9D%98%EC%95%84%EC%9D%B4%EB%94%94%EC%99%80%EC%9D%B4%EB%A6%84.md) | MySQL |
+| 2022-01-11 | 프로그래머스 | [여러 기준으로 정렬하기](https://github.com/JeangyuHeo/Algorithm/blob/main/SQL/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EC%97%AC%EB%9F%AC%EA%B8%B0%EC%A4%80%EC%9C%BC%EB%A1%9C%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.md) | MySQL |
+| 2022-01-11 | 프로그래머스 | [상위 n개 레코드](https://github.com/JeangyuHeo/Algorithm/blob/main/SQL/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EC%83%81%EC%9C%84N%EA%B0%9C%EB%A0%88%EC%BD%94%EB%93%9C.md) | MySQL |
+| 2022-01-14 | 프로그래머스 | [이름이 없는 동물의 아이디](https://github.com/JeangyuHeo/Algorithm/blob/main/SQL/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EC%9D%B4%EB%A6%84%EC%9D%B4%EC%97%86%EB%8A%94%EB%8F%99%EB%AC%BC%EC%9D%98%EC%95%84%EC%9D%B4%EB%94%94.md) | MySQL |
+| 2022-01-14 | 프로그래머스 | [이름이 있는 동물의 아이디](https://github.com/JeangyuHeo/Algorithm/blob/main/SQL/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EC%9D%B4%EB%A6%84%EC%9D%B4%EC%9E%88%EB%8A%94%EB%8F%99%EB%AC%BC%EC%9D%98%EC%95%84%EC%9D%B4%EB%94%94.md) | MySQL |
+| 2022-01-14 | 프로그래머스 | [NULL 처리하기](https://github.com/JeangyuHeo/Algorithm/blob/main/SQL/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_NULL%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0.md) | MySQL |
+
+<br>
+
+<br>
+
+## Hash
+
+| 날짜       | 사이트       | 문제 이름                                                    | 언어   |
+| ---------- | ------------ | ------------------------------------------------------------ | ------ |
+| 2022-01-12 | 프로그래머스 | [완주하지 못한 선수](https://github.com/JeangyuHeo/Algorithm/blob/main/Hash/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98.py) | Python |
+| 2022-01-12 | 프로그래머스 | [전화번호 목록](https://github.com/JeangyuHeo/Algorithm/blob/main/Hash/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EB%AA%A9%EB%A1%9D.py) | Python |
+| 2022-01-13 | 프로그래머스 | [위장](https://github.com/JeangyuHeo/Algorithm/blob/main/Hash/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EC%9C%84%EC%9E%A5.py) | Python |
+| 2022-01-13 | 프로그래머스 | [베스트 앨범](https://github.com/JeangyuHeo/Algorithm/blob/main/Hash/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.py) | Python |
 
 <br>
 
