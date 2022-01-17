@@ -6,9 +6,9 @@ def solution(operations):
         
         if op_list[0] == 'I':
             q.append(int(op_list[1]))
-        elif op_list[1] == '1' and len(q) != 0:
+        elif op_list[1] == '1' and q:
             q.pop(0)
-        elif op_list[1] == '-1' and len(q) != 0:
+        elif op_list[1] == '-1' and q:
             q.pop()
         
         q.sort(reverse=True)
