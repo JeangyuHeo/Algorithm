@@ -96,9 +96,13 @@
 
 ## 스택
 
-| 날짜       | 사이트       | 문제 이름                                                    | 언어 |
-| ---------- | ------------ | ------------------------------------------------------------ | ---- |
-| 2021-12-29 | 프로그래머스 | [주식 가격](https://github.com/JeangyuHeo/Algorithm/blob/main/%EC%8A%A4%ED%83%9D/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9.cpp) | C++  |
+| 날짜       | 사이트       | 문제 이름                                                    | 언어   |
+| ---------- | ------------ | ------------------------------------------------------------ | ------ |
+| 2021-12-29 | 프로그래머스 | [주식 가격](https://github.com/JeangyuHeo/Algorithm/blob/main/%EC%8A%A4%ED%83%9D/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9.cpp) | C++    |
+| 2022-01-13 | 프로그래머스 | [기능 개발](https://github.com/JeangyuHeo/Algorithm/blob/main/%EC%8A%A4%ED%83%9D/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.py) | Python |
+| 2022-01-13 | 프로그래머스 | [다리를 지나는 트럭](https://github.com/JeangyuHeo/Algorithm/blob/main/%EC%8A%A4%ED%83%9D/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EB%8B%A4%EB%A6%AC%EB%A5%BC%EC%A7%80%EB%82%98%EB%8A%94%ED%8A%B8%EB%9F%AD.py) | Python |
+| 2022-01-13 | 프로그래머스 | [프린터](https://github.com/JeangyuHeo/Algorithm/blob/main/%EC%8A%A4%ED%83%9D/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%ED%94%84%EB%A6%B0%ED%84%B0.py) | Python |
+| 2022-01-13 | 프로그래머스 | [주식 가격](https://github.com/JeangyuHeo/Algorithm/blob/main/%EC%8A%A4%ED%83%9D/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9.py) | Python |
 
 <br>
 
@@ -118,6 +122,10 @@
 | 2022-01-14 | 프로그래머스 | [이름이 없는 동물의 아이디](https://github.com/JeangyuHeo/Algorithm/blob/main/SQL/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EC%9D%B4%EB%A6%84%EC%9D%B4%EC%97%86%EB%8A%94%EB%8F%99%EB%AC%BC%EC%9D%98%EC%95%84%EC%9D%B4%EB%94%94.md) | MySQL |
 | 2022-01-14 | 프로그래머스 | [이름이 있는 동물의 아이디](https://github.com/JeangyuHeo/Algorithm/blob/main/SQL/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EC%9D%B4%EB%A6%84%EC%9D%B4%EC%9E%88%EB%8A%94%EB%8F%99%EB%AC%BC%EC%9D%98%EC%95%84%EC%9D%B4%EB%94%94.md) | MySQL |
 | 2022-01-14 | 프로그래머스 | [NULL 처리하기](https://github.com/JeangyuHeo/Algorithm/blob/main/SQL/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_NULL%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0.md) | MySQL |
+| 2022-01-18 | 프로그래머스 | [최댓값 구하기](https://github.com/JeangyuHeo/Algorithm/blob/main/SQL/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B5%AC%ED%95%98%EA%B8%B0.md) | MySQL |
+| 2022-01-18 | 프로그래머스 | [최솟값 구하기](https://github.com/JeangyuHeo/Algorithm/blob/main/SQL/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EC%B5%9C%EC%86%9F%EA%B0%92%EA%B5%AC%ED%95%98%EA%B8%B0.md) | MySQL |
+| 2022-01-18 | 프로그래머스 | [동물 수 구하기](https://github.com/JeangyuHeo/Algorithm/blob/main/SQL/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EB%8F%99%EB%AC%BC%EC%88%98%EA%B5%AC%ED%95%98%EA%B8%B0.md) | MySQL |
+| 2022-01-18 | 프로그래머스 | [중복 제거하기](https://github.com/JeangyuHeo/Algorithm/blob/main/SQL/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EC%A4%91%EB%B3%B5%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.md) | MySQL |
 
 <br>
 
@@ -135,3 +143,22 @@
 <br>
 
 <br>
+
+## 동적계획법(DP)
+
+| 날짜       | 사이트       | 문제 이름                                                    | 언어   |
+| ---------- | ------------ | ------------------------------------------------------------ | ------ |
+| 2022-01-17 | 프로그래머스 | [N으로 표현](https://github.com/JeangyuHeo/Algorithm/blob/main/%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95(DP)/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_N%EC%9C%BC%EB%A1%9C%ED%91%9C%ED%98%84.py) | Python |
+| 2022-01-17 | 프로그래머스 | [정수 삼각형](https://github.com/JeangyuHeo/Algorithm/blob/main/%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95(DP)/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EC%A0%95%EC%88%98%EC%82%BC%EA%B0%81%ED%98%95.py) | Python |
+| 2022-01-17 | 프로그래머스 | [등굣길](https://github.com/JeangyuHeo/Algorithm/blob/main/%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95(DP)/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EB%93%B1%EA%B5%A3%EA%B8%B8.py) | Python |
+
+<br><br>
+
+## Heap
+
+| 날짜       | 사이트       | 문제 이름                                                    | 언어   |
+| ---------- | ------------ | ------------------------------------------------------------ | ------ |
+| 2022-01-17 | 프로그래머스 | [더 맵게](https://github.com/JeangyuHeo/Algorithm/blob/main/Heap/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EB%8D%94%EB%A7%B5%EA%B2%8C.py) | Python |
+| 2022-01-18 | 프로그래머스 | [디스크 컨트롤러](https://github.com/JeangyuHeo/Algorithm/blob/main/Heap/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EB%94%94%EC%8A%A4%ED%81%AC%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC.py) | Python |
+| 2022-01-18 | 프로그래머스 | [이중 우선순위 큐](https://github.com/JeangyuHeo/Algorithm/blob/main/Heap/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90.py) | Python |
+
