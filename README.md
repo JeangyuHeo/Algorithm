@@ -48,10 +48,14 @@
 
 ## DFS/BFS
 
-| 날짜       | 사이트       | 문제 이름                                                    | 언어 |
-| ---------- | ------------ | ------------------------------------------------------------ | ---- |
-| 2021-12-28 | 프로그래머스 | [타겟 넘버](https://github.com/JeangyuHeo/Algorithm/blob/main/DFS/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%ED%83%80%EA%B2%9F%EB%84%98%EB%B2%84.cpp) | C++  |
-| 2021-12-29 | 프로그래머스 | [네트워크](https://github.com/JeangyuHeo/Algorithm/blob/main/BFS/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.cpp) | C++  |
+| 날짜       | 사이트       | 문제 이름                                                    | 언어   |
+| ---------- | ------------ | ------------------------------------------------------------ | ------ |
+| 2021-12-28 | 프로그래머스 | [타겟 넘버-DFS](https://github.com/JeangyuHeo/Algorithm/blob/main/DFS/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%ED%83%80%EA%B2%9F%EB%84%98%EB%B2%84.cpp) | C++    |
+| 2021-12-29 | 프로그래머스 | [네트워크-BFS](https://github.com/JeangyuHeo/Algorithm/blob/main/BFS/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.cpp) | C++    |
+| 2022-01-19 | 프로그래머스 | [단어변환-DFS](https://github.com/JeangyuHeo/Algorithm/blob/main/DFS/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EB%8B%A8%EC%96%B4%EB%B3%80%ED%99%98.py) | Python |
+| 2022-01-19 | 프로그래머스 | [여행경로-DFS](https://github.com/JeangyuHeo/Algorithm/blob/main/DFS/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9C.py) | Python |
+| 2022-01-19 | 프로그래머스 | [타겟 넘버-DFS](https://github.com/JeangyuHeo/Algorithm/blob/main/DFS/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%ED%83%80%EA%B2%9F%EB%84%98%EB%B2%84_python.py) | Python |
+| 2022-01-19 | 프로그래머스 | [네트워크-BFS](https://github.com/JeangyuHeo/Algorithm/blob/main/BFS/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC_python.py) | Python |
 
 <br>
 
