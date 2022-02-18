@@ -1,29 +1,26 @@
 def solution(sentence, keyword, skips):
     answer=""
-    sent_len, skips_len = len(sentence), len(skips)
-    idx, skip_idx, sent_idx = 0, 0, 0
     
-    for i in range(1, skips_len):
-        skips[i] = skips[i-1]+skips[i]
+    sent_len, key_len, cur = len(sentence), len(keyword), 0
 
-    while True:
-        print(skip_idx, sent_idx)
-        if skip_idx >= skips_len and sent_idx >= sent_len:
-            break
-        while skip_idx < skips_len and skips[skip_idx] == idx:
-            answer+=keyword[skip_idx%len(keyword)]
-            skip_idx+=1
-            
-        if sent_idx < sent_len:
-            answer+=sentence[sent_idx]
-            if skip_idx < skips_len and sentence[sent_idx] == keyword[skip_idx%len(keyword)]:
-                answer+=keyword[skip_idx%len(keyword)]
-                skip_idx+=1
-                
-        sent_idx+=1
-        idx+=1
+    for idx, skip in enumerate(skips):
+        tmp_sent = sentence[cur:cur+skip]
+        tmp_key = keyword[idx % key_len]
+        update_idx, update_str = 0, ""
+
+        if tmp_key in tmp_sent:
+            find = tmp_sent.find(tmp_key)
+            update_str = tmp_sent[:find+1]+tmp_key
+            update_idx = find+1
+        else:
+            if cur + skip <= sent_len:
+                update_str = tmp_sent + tmp_key
+                update_idx = skip
         
-    return answer
+        answer += update_str
+        cur += update_idx
+        
+    return answer + sentence[cur:]
 
 #Test cases
 sentence = "i love coding"
