@@ -7,5 +7,5 @@ def fibonacci(n):
     
 num = int(input())
 d = [1 if i ==1 or i==2 else 0 for i in range(num+1) ]
-print(d)
+
 print(fibonacci(num))
