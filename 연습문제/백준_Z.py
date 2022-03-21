@@ -18,17 +18,11 @@ while N > 1:
         C-=size
     N -= 1
     
-    if R==0 and C ==0:
-        print(res)
-        break
-    elif R ==0 and C ==1:
-        print(res+1)
-        break
-    elif R==1 and C==0:
-        print(res+2)
-        break
-    elif R==1 and C==1:
-        print(res+3)
-        break
-else:
-    print(0)
+if R==0 and C ==0:
+    print(res)
+elif R ==0 and C ==1:
+    print(res+1)
+elif R==1 and C==0:
+    print(res+2)
+elif R==1 and C==1:
+    print(res+3)
