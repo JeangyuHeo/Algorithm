@@ -1,11 +1,6 @@
 import sys
 input = sys.stdin.readline
 
-NORTH = 0
-EAST = 1
-SOUTH = 2
-WEST = 3
-
 dx = (-1, 0, 1, 0)
 dy = (0, 1, 0, -1)
 
@@ -15,7 +10,7 @@ def dfs(r, c, dir):
         visited[r][c] = True
         answer += 1
                     
-    for i in range(4):
+    for _ in range(4):
         nd = (dir+3) % 4
         nx = r + dx[nd]
         ny = c + dy[nd]
