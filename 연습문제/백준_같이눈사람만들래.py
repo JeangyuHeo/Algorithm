@@ -20,7 +20,7 @@ def solution():
                 else:
                     return 0
             
-    return answer    
+    return answer
     
 if __name__ == "__main__":
     n = int(input())
