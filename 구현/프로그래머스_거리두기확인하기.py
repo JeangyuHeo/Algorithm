@@ -3,16 +3,16 @@ dy = [1, 0, 2, 1, 0, -1]
 
 def check_path(place, mode, nx, ny):
     if mode == 2:
-        if place[nx][ny-1] in ('O', 'P'):
+        if place[nx][ny-1] == 'O':
             return False
     elif mode == 3:
-        if place[nx][ny-1] in ('O', 'P') or place[nx-1][ny] in ('O', 'P'):
+        if place[nx][ny-1] == 'O' or place[nx-1][ny] == 'O':
             return False
     elif mode == 4:
-        if place[nx-1][ny] in ('O', 'P'):
+        if place[nx-1][ny] == 'O':
             return False
     elif mode == 5:
-        if place[nx-1][ny] in ('O', 'P') or place[nx][ny+1] in ('O', 'P'):
+        if place[nx-1][ny] == 'O' or place[nx][ny+1] == 'O':
             return False
     elif mode in (0,1):
         return False
