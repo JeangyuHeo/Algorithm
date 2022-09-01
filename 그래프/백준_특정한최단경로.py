@@ -41,11 +41,8 @@ if __name__ == "__main__":
     d2 = dijkstra(start)
     d3 = dijkstra(end)
     
-    if d1[start] == 1e9 and d1[end] == 1e9:
-        print(-1)
-    elif d2[end] == 1e9 and d3[start] == 1e9:
-        print(-1)
-    elif d3[n] == 1e9 and d2[n] == 1e9:
+    ans = min(d1[start]+d2[end]+d3[n], d1[end]+d3[start]+d2[n])
+    if ans >= 1e9:
         print(-1)
     else:
-        print(min(d1[start]+d2[end]+d3[n], d1[end]+d3[start]+d2[n]))
+        print(ans)
