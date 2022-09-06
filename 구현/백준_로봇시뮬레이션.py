@@ -25,12 +25,6 @@ def do_command(no, command, num):
 def check_range(no):
     x, y = pos_dict[no]
     return True if 0<x<=b and 0<y<=a else False
-
-def check_crash(no):
-    for key, val in pos_dict.items():
-        if key != no and val == pos_dict[no]:
-            return key
-    return -1
     
 if __name__ == "__main__":
     dir_to_idx = {'N': 0, 'E':1, 'S':2, 'W':3}
@@ -59,7 +53,6 @@ if __name__ == "__main__":
             do_command(no, command, num)
         else:
             for _ in range(num):
-                print(board)
                 if not do_command(no, command, num):
                     print("Robot", no, "crashes into robot", board[pos_dict[no][0]][pos_dict[no][1]])
                     exit(0)
