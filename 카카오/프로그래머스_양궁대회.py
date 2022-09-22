@@ -1,4 +1,29 @@
 from collections import deque
+from itertools import combinations_with_replacement, combinations
+
+def solution(n, info):
+    answer = [-1]
+    max_gap = -1
+    
+    for comb in combinations_with_replacement(range(11), n):
+        lion_list = [0 for _ in range(11)]
+        lion, apeach = 0, 0
+        
+        for i in comb:
+            lion_list[10-i] += 1
+            
+        for i in range(11):
+            if (info[i], lion_list[i]) == (0,0):
+                continue
+            elif info[i] >= lion_list[i]:
+                apeach += 10 - i
+            else:
+                lion += 10 - i
+        if lion > apeach:
+            if lion - apeach > max_gap:
+                max_gap = lion - apeach
+                answer = lion_list
+    return answer
 
 def bfs(n, info):    
     res = []
