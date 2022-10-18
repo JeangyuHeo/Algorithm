@@ -20,5 +20,4 @@ if __name__ == "__main__":
             else:
                 cnt_b += 1
     
-    
     print(min(cnt_r, cnt_b)+1)
