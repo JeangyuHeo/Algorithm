@@ -13,10 +13,17 @@ def solution(A, K, L):
     for k_pos in range(n-(L+K-1)):
         for l_pos in range(k_pos+K, n - L+1):
             if k_pos == 0:
-                answer = max(answer, dp[k_pos+K-1] - dp[k_pos] + dp[l_pos+L-1] - dp[l_pos-1])
+                answer = max(answer, dp[k_pos+K-1] + dp[l_pos+L-1] - dp[l_pos-1])
             else:
                 answer = max(answer, dp[k_pos+K-1] - dp[k_pos-1] + dp[l_pos+L-1] - dp[l_pos-1])
     
+    for l_pos in range(n-(L+K-1)):
+        for k_pos in range(l_pos+L, n-K+1):
+            if l_pos == 0:
+                answer = max(answer, dp[l_pos+L-1] + dp[k_pos+K-1] - dp[k_pos-1])
+            else:
+                answer = max(answer, dp[l_pos+L-1] - dp[l_pos-1] + dp[k_pos+K-1] - dp[k_pos-1])
+                
     return answer
 
 if __name__ == '__main__':
