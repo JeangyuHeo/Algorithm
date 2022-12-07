@@ -18,4 +18,3 @@ if __name__ == "__main__":
                 answer = max(answer, dp[i+win_size][j+win_size] - dp[i-1][j+win_size] - dp[i+win_size][j-1] + dp[i-1][j-1])
 
     print(answer)
-    
