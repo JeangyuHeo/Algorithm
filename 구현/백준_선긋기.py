@@ -17,6 +17,4 @@ if __name__ == "__main__":
             answer += cur[1] - cur[0]
             cur = lines[i]
     
-    answer += cur[1] - cur[0]
-    
-    print(answer)
+    print(answer + cur[1] - cur[0])
