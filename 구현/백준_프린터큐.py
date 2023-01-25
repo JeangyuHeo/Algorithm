@@ -23,6 +23,3 @@ if __name__ == "__main__":
                 printer.append(printer.popleft())
     
         print(cnt)
-    
-        
-        
